@@ -1,3 +1,3 @@
 # python-getting-start
 
-usando a documentação oficial do [FastAPI](https://fastapi.tiangolo.com/tutorial/)
+usando a documentação oficial do [Flask](https://flask.palletsprojects.com/en/stable/tutorial/)
